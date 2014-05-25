@@ -1,4 +1,4 @@
 svg-js-test
 ===========
 
-svg- s test
+Some simple testing with JS and SVG
